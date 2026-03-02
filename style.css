@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 40px;
+}
+
+h2 {
+    color: #006400;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+img {
+    width: 300px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 10px;
+    background-color: darkgreen;
+    color: white;
+}
